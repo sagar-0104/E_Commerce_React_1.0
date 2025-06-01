@@ -1,0 +1,44 @@
+/* Color Variables for Fashion E-commerce Project */
+:root {
+    /* Primary Brand Colors */
+    --primary-color: #FF4141;
+    --primary-hover: #e03535;
+    --primary-light: #ff6b6b;
+    --primary-lighter: #ff8a8a;
+
+    /* Brand Gradients */
+    --primary-gradient: linear-gradient(135deg, #FF4141, #e03535);
+    --background-gradient-light: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
+
+    /* Text Colors */
+    --text-primary: #171717;
+    --text-secondary: #252525;
+    --text-dark: #333;
+    --text-medium: #454545;
+    --text-light: #616161;
+    --text-muted: #8c8c8c;
+
+    /* Background Colors */
+    --background-light: #f8f9fa;
+    --background-white: #ffffff;
+
+    /* Border Colors */
+    --border-light: #e3e3e3;
+    --border-medium: #c7c7c7;
+
+    /* Shadow Colors */
+    --shadow-primary: 0 5px 15px rgba(255, 65, 65, 0.3);
+    --shadow-primary-hover: 0 8px 25px rgba(255, 65, 65, 0.4);
+    --shadow-primary-light: 0 5px 15px rgba(255, 65, 65, 0.1);
+
+    /* Status Colors */
+    --success-color: #48bb78;
+    --error-color: #f56565;
+    --warning-color: #ed8936;
+    --info-color: #4299e1;
+
+    /* Social Media Brand Colors */
+    --google-color: #db4437;
+    --facebook-color: #4267B2;
+    --apple-color: #000000;
+}
