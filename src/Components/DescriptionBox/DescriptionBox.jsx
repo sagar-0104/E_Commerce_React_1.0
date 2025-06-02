@@ -8,7 +8,7 @@ const DescriptionBox = () => {
             <div className="descriptionbox-nav-box fade">Reviews(133)</div>
         </div>
         <div className="descriptionbox-description">
-            <p>an e commerce ........</p>
+            <p>E-commerce is the buying and selling of goods or services over the internet. It offers convenience, secure payments, and doorstep delivery to customers worldwide.</p>
             <p>some text.......</p>
         </div>
 
